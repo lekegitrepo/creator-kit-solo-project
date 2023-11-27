@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 116
+  controlID: 44
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 55
+  controlID: 45
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -358,7 +358,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/UnityTechnologies/Creator Kit - Beginner Code/Scripts/Tutorial
+    - Assets/UnityTechnologies/Creator Kit - Beginner Code
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -366,16 +366,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/UnityTechnologies/Creator Kit - Beginner Code/Scripts/Tutorial
+  - Assets/UnityTechnologies/Creator Kit - Beginner Code
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\projects\Unity-Dev\creator-kit-solo-project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 244.6}
-    m_SelectedIDs: ae930000
-    m_LastClickedID: 37806
-    m_ExpandedIDs: 00000000bc910000be910000c0910000809300008493000000ca9a3b
+    scrollPos: {x: 0, y: 143}
+    m_SelectedIDs: c0910000
+    m_LastClickedID: 37312
+    m_ExpandedIDs: 00000000bc910000be910000c09100008493000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -430,7 +430,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -545,9 +545,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 527b0000
-      m_LastClickedID: 31570
-      m_ExpandedIDs: e6faffffa6770000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: b239ffff603affff388affffe6faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
